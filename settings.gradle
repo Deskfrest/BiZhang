@@ -1,0 +1,3 @@
+rootProject.name='BiZhang4'
+include ':app'
+include ':Opencv430'
